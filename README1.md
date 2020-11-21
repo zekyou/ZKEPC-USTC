@@ -22,13 +22,13 @@
 
 打开	**EPC.exe**	可进入界面如下：
 
-<img src="C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20201121195509139.png" alt="image-20201121195509139" style="zoom:80%;" />
+<img src="./img/image-20201121195509139.png" alt="image-20201121195509139" style="zoom:80%;" />
 
 
 
 主要分为四块区域
 
-<img src="D:\Program Files\pythonfile\web\src\image-20201121195509139.png" alt="image-20201121195509139" style="zoom:75%;" />
+<img src="./img/image-20201121195509139.png" alt="image-20201121195509139" style="zoom:75%;" />
 
 1. 基本信息区(主要包括学号，EPC登录码，如果需要邮件通知，还需要邮件发送方地址，发送方登录码，接收方地址)
 
@@ -56,7 +56,7 @@
 - **E-mail?**：勾选是否开启邮件通知服务(建议开启)
 - **Hide info**: 隐藏信息，效果如下：
 
-<img src="C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20201121202307366.png" alt="image-20201121202307366" style="zoom:67%;" />
+<img src="./img/image-20201121202307366.png" alt="image-20201121202307366" style="zoom:67%;" />
 
 - **RememberMe?**：勾选是否记住我，鉴于个人具体信息填写有时候较多，每次填写耗时。该选项可以生成**本地**缓存，下次启动软件时读取缓存文档，便于修改。
 
@@ -78,13 +78,13 @@
 
 - **SpecificTime:** 你所选的星期里，具体什么时间有空。例如：我**星期一**下午14:00-17:30有空，则填写如下：
 
-  ![image-20201121203638085](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20201121203638085.png)
+  ![image-20201121203638085](./img/image-20201121203638085.png)
 
   **注意两点**，必须是hh:mm-hh:mm格式，**例如8点半需写为：08:30而不是8:30,** 冒号必须是英文的冒好而不是全角，即是**:**而不是**：**。中间是小短线。
 
   同样，该选项支持并列，例如我星期二的上午08:30-11:30和下午15:30-17:30以及晚上19:00-21:00有空，则你可以填写如下：
 
-  ![image-20201121204113763](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20201121204113763.png)
+  ![image-20201121204113763](./img/image-20201121204113763.png)
 
   为了方便起见，支持表达式如下：
 
@@ -95,11 +95,11 @@
 
   例如，我**星期三**全天有空，星期四上午和晚上20:00-22:00有空，则填写如下：
 
-  ![image-20201121204451955](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20201121204451955.png)
+  ![image-20201121204451955](./img/image-20201121204451955.png)
 
 - **TeacherAva：** 选择你所喜爱的老师，则只会选择该老师的课程。例如，我只喜欢上Beata的课，则填写如下：
 
-  ![image-20201121204702084](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20201121204702084.png)
+  ![image-20201121204702084](./img/image-20201121204702084.png)
 
   支持并列，例如，我只想上Beata和Heiko的课，填写  Beata&Heiko即可
 
@@ -107,7 +107,7 @@
 
 - **Black List?** 是否启用黑名单模式，即上文提到的，例如：我不想上xxx和yyy的课，填写如下
 
-  ![image-20201121205059282](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20201121205059282.png)
+  ![image-20201121205059282](./img/image-20201121205059282.png)
 
   
 
