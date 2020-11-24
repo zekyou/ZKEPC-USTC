@@ -134,8 +134,6 @@ class Web_Epc(object):
         sender = account + '@' + sname
         content = "From ZeKyoU: Book a epc class successfully!\n Time:" + check_info[7] + \
                   '\n Topic: ' + check_info[1] + '\n Room: ' + check_info[0] + '\n Teacher: ' + check_info[2]
-        if int(receiver[0:5]) + int(receiver[5:10]) == 17522:
-            content = 'Darling!' + content
         message = MIMEText(content, 'plain', 'utf-8')
         subject = 'USTC-EPC'
         message['Subject'] = Header(subject, 'utf-8')
