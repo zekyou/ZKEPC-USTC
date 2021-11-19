@@ -1,5 +1,5 @@
 # 使用说明
-
+# 当年版本[2.1]EXE打包缺少依赖包，建议直接clone 源码在conda环境下运行。EXE等待后续更新。
 本文档为EPC超智能抢课软件[ZKEPC](https://zekyou.github.io)的使用说明。
 
 使用版本：2.0
@@ -14,7 +14,7 @@
 
 # <a id='link'>度盘链接</a>
 
-[下载链接](https://pan.baidu.com/s/12EjhQBx4JLCM8Cf6KSGsqQ)
+[下载链接]()
 
 提取码：sucb
 
